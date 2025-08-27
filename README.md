@@ -20,4 +20,10 @@
 
   Reported bugs such as app crashes and UI misalignments
 
-  Here the first sheet is functionality Test cases , Second sheet is Usability Test cases , third sheet is Bug report
+  Here the Each sheet contains
+  
+   1.Functionality Test Cases
+   
+   2.Usability Test cases
+   
+   3.Bug report
